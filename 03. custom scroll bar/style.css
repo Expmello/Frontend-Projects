@@ -20,11 +20,11 @@ body{
 
 /*Scroll bar*/
 ::-webkit-scrollbar{
-    background-color: transparent;
+    background: linear-gradient(#21D4FD, #b721ff);
     width: 10px;
 }
 
-::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-track-piece{
     background: linear-gradient(#21D4FD, #b721ff);
     border-radius: 100px;
 }
